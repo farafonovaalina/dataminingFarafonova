@@ -1,1 +1,1 @@
-# dataminingFarafonova
+# Datamining project
